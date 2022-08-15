@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // master change 1 done
+
+        // master change 2 done
     }
 
         // feature changes 1 done
